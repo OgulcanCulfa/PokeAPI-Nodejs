@@ -1,6 +1,17 @@
+# IMPORTANT!
+
+Please follow these steps if you are working with this project on local machine:
+
+1 - Open the IDE's terminal <br>
+2 - type "npm i"
+
+Then type "npm run start" to run the project. 
+
 # PokeAPI-Nodejs
 
 Get pokemon datas through PokeAPI with Node.js,Express.js
+
+
 
 ## Tech
 
