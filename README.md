@@ -9,7 +9,8 @@ Then type "npm run start" to run the project.
 
 # PokeAPI-Nodejs
 
-Get pokemon datas through PokeAPI with Node.js,Express.js
+Get pokemon datas through PokeAPI with Node.js,Express.js <br> <br>
+API Docs: https://pokeapi.co/
 
 
 
